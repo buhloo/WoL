@@ -1,0 +1,9 @@
+#playerName li {
+	list-style: none;
+	display: inline-block;
+}
+
+#enemyName li {
+	list-style: none;
+	display: inline-block;
+}
